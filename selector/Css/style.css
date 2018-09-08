@@ -1,0 +1,9 @@
+@import url(reset.css);
+
+img[src="https://www.iphones.ru/wp-content/uploads/2017/02/884307173.jpg"] {
+	width: 300px;
+}
+
+img [src="https://vesti-ukr.com/img/article/2410/86_main.jpg"] {
+	height: 600px;
+}
